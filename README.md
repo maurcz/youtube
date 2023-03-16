@@ -4,7 +4,7 @@ https://www.youtube.com/@maurcz
 
 ### Playlists
 
-Python Dependency Management: https://www.youtube.com/watch?v=mlEO7_HYgj8&list=PL0UmTzlFJAXGSHVuRngkaSgMjPvjJbipR
+[Python Dependency Management](https://www.youtube.com/watch?v=mlEO7_HYgj8&list=PL0UmTzlFJAXGSHVuRngkaSgMjPvjJbipR)
 
 ### Band Recommendation
 
